@@ -1,0 +1,25 @@
+{
+  "name": "@eomzic/use-title",
+  "version": "1.0.0",
+  "description": "React Hook to update your document's title",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eomzic/HOOKS.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "title"
+  ],
+  "author": "Troy EOM <yoon6e@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eomzic/HOOKS/issues"
+  },
+  "homepage": "https://github.com/eomzic/HOOKS#readme",
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
